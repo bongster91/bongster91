@@ -1,18 +1,15 @@
-### Hi there 👋
+# Hi Kitties, it's me, Grace Bong
 
-![catimage](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fa34774573%2Fgirl-cat-names%2F&psig=AOvVaw3JEYoEXJ8AFUqytHh1v2A9&ust=1611344955545000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDLi43mre4CFQAAAAAdAAAAABAD 'kittykitty')
+Fellow NewYorker, software engineer, lifelong learner, soon-hopefully-to-be-animal-whisperer.
 
-<!--
-**bongster91/bongster91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on algorigthms :anguished:
+- 🌱 I’m currently learning DSA :school_satchel:
+- 👯 I’m looking to collaborate on potential startups :briefcase: :sparkles: :moneybag:
+- 🤔 I’m looking for help with how to capture and adopt a dragon :dragon:
+- 💬 Ask me about coffee :coffee: HP Lovecraft :ghost: animals :tiger: games :video_game:
+- 📫 How to reach me: gracebong.park@gmail.com :mailbox:
+- 😄 Pronouns: all the above :couple:
+- ⚡ Fun fact: I'm a barista and bartender :coffee: :cocktail:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please take a look through my repos and personal portfolio.
