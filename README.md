@@ -11,4 +11,4 @@ Fellow NewYorker, software engineer, lifelong learner, soon-to-be-animal-whisper
 <br> 😄 Pronouns: all the above :couple:
 <br> ⚡ Fun fact: I'm a barista and bartender :coffee: :cocktail:
 
-Please take a look through my repos, <a href="https://www.linkedin.com/in/grace-bong-7922b7202/">LinkedIn</a> and portfolio.
+Please take a look through my repos, <a href="https://www.linkedin.com/in/grace-bong-7922b7202/">LinkedIn</a> and <a href="https://suspicious-jang-7762b9.netlify.app/">portfolio</a>.
