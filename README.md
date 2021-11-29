@@ -1,4 +1,4 @@
-# Hi Kitties, it's me, Grace Bong
+# Hello Kitties
 
 Fellow NewYorker, software engineer, lifelong learner, soon-to-be-animal-whisperer.
 
