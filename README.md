@@ -1,6 +1,6 @@
 # Hiya!
 
-Fellow NewYorker, software engineer, lifelong learner, soon-to-be-animal-whisperer.
+Fellow NewYorker, software engineer @ The Blackstone Group, lifelong learner, aspiring animal whisperer.
 
 🔭  I’m currently working on algorigthms :anguished:
 <br> 🌱 I’m currently learning DSA :school_satchel:
