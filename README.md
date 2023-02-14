@@ -1,4 +1,4 @@
-# Hello Kitties
+# Hiya!
 
 Fellow NewYorker, software engineer, lifelong learner, soon-to-be-animal-whisperer.
 
