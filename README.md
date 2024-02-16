@@ -13,4 +13,3 @@ Fellow NewYorker | software engineer @ The Blackstone Group | lifelong learner |
 
 Please take a look through my repos, <a href="https://www.linkedin.com/in/grace-bong-7922b7202/">LinkedIn</a> and <a href="https://suspicious-jang-7762b9.netlify.app/">portfolio</a>.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongster91&theme=tokyonight)
